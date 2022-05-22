@@ -1,0 +1,9 @@
+	#item{
+		visibility: hidden !important;
+		float: right!important;;
+		margin-right: 0%!important;
+	}
+	#row:hover #item{
+		visibility: visible !important;
+		float: right!important;
+	}
